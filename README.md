@@ -69,7 +69,7 @@ Manages research activities, publications, and candidate supervision
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/d-k-mrithyunjay-6160742a2/)]
+- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/d-k-mrithyunjay-6160742a2/)]
 - **GitHub:** [Mrithyunjay02](https://github.com/Mrithyunjay02)  
 - **Email:** [mrithyunjay12@gmail.com](mailto:mrithyunjay12@gmail.com)  
 - **Resume:** [Download PDF](./DK_Mrithyunjay_Resume.pdf)  
