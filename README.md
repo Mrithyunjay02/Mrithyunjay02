@@ -1,88 +1,74 @@
-# Hi there 👋, I'm D K Mrithyunjay  
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20There!%20I'm%20D%20K%20Mrithyunjay&textBg=false&fontSize=50)
 
-🎓 **Passionate Computer Science Student | Python & AI Enthusiast**  
-💡 Focused on building scalable applications with **Machine Learning, Cloud Computing, and Blockchain Security**  
-📍 Shimoga, Karnataka, India  
 
----
 
-## 🚀 About Me
-I am a passionate Computer Science student focused on **Python and AI**.  
-I specialize in developing smart applications using modern ML frameworks and love exploring innovative AI techniques to solve real-world challenges.  
+#  Hi, I'm Mrithyunjay 👋
 
-I strive to create **scalable and efficient solutions** that make a tangible impact. I’m eager to collaborate on projects that push the boundaries of technology.  
+I'm a passionate Computer Science student specializing in **Python, AI, Web Development**, and **Cloud Computing**.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mrithyunjay02)](https://github.com/Mrithyunjay02)
 
 ---
 
-## 🛠 Technical Skills
-- **Languages**: Python, C, JavaScript  
-- **Databases**: SQL, MongoDB, Google Firebase  
-- **Frameworks**: PHP, Node.js  
-- **Tools & Platforms**: GitHub, VS Code, Power BI, AWS  
+##  Live Portfolio
+
+Explore my professional portfolio here:
+
+👉 [Visit My Portfolio Website](https://6818fcffa2234b479c5c499b--lucky-queijadas-70e620.netlify.app/)  
 
 ---
 
-## 📂 Projects
+##  About Me
 
-### 🏥 Doctor’s Appointment Management System  
-- User-centric web app to streamline doctor appointment bookings  
-- Tech: PHP, MySQL, HTML, CSS, JavaScript  
-
-### 🚗 OpenPark – Smart Parking Slot Booking System *(Hackathon Project)*  
-- Full-stack parking management system with real-time booking & auto-reset  
-- Tech: Node.js, Express, MongoDB, React  
-- Features: Apple-inspired UI with dark/light mode, animations  
-
-### ☁️ Cloud Computing SaaS Security – Blockchain-Backed Web App *(Ongoing Research)*  
-- SaaS-based cloud storage with blockchain-backed auditing  
-- Features: Real-time monitoring, file management, user login  
-- Exploring AWS, Python, JavaScript, Burp Suite  
-
-### 🧑‍🔬 Research Centre Management System  
-- Web app to manage research center activities, grants, and doctorate registrations  
-- Tech: PHP, MySQL, HTML, CSS, JavaScript  
+- Pursuing B.Tech in Computer Science (PESITM, Shimoga)  
+- Building intelligent, scalable applications using ML and modern frameworks  
+- Strong foundation in problem-solving, with a passion for innovation  
+- Active in organizing hackathons and technical events; also a state-level powerlifter  
 
 ---
 
-## 🎓 Education
-- **PES Institute of Technology and Management** – B.Tech in Computer Science (2022–2026)  
-- **PACE U M Pre-University College** – PUC (2020–2022)  
-- **Saandeepani English High School** – High School (2018–2020)  
+##  Projects Showcase
+
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| **Doctor’s Appointment Management System** | PHP, MySQL, HTML, CSS, JS | Streamlined online appointment system |
+| **OpenPark – Smart Parking System** | Node.js, Express, MongoDB, React | Real-time booking with modern UI (hackathon project) |
+| **Blockchain-Backed SaaS Security App** | Python, AWS, Blockchain | Secure file ops with tamper-proof logging (Ongoing research) |
+| **Research Centre Management System** | PHP, MySQL, JavaScript | Manages research activities, publications, and candidate supervision |
 
 ---
 
-## 📜 Certifications
-- Udemy – *Python Bootcamp: Zero to Hero*  
-- Internpe – *AI/ML Programming*  
-- Infosys Springboard – *Introduction to Artificial Intelligence*  
-- Elevate Labs – *AI & ML Internship*  
+##  Tech Stack & Tools
+
+- **Languages:** Python • C • JavaScript  
+- **Databases & Storage:** SQL (MySQL), MongoDB, Firebase  
+- **Frameworks & Libraries:** Node.js, Express, React, PHP  
+- **Tools & Platforms:** GitHub, VS Code, Power BI, AWS  
+- **Notable Certifications:**  
+  - Python Bootcamp (Udemy)  
+  - AI/ML Programming (Internpe)  
+  - Identify AI Foundations (Infosys Springboard)  
+  - AI & ML Internship (Elevate Labs)
 
 ---
 
-## 🏆 Achievements
-- Technical Coordinator – organized hackathons & events  
-- State-Level Powerlifting Athlete 🏋️  
-- 36-hour FOSS Hackathon – *Developed OpenPark*  
-- BIT’S N BYTES 2.0 Hackathon – Davangere  
+##  What I'm Doing Now
+
+- Designing and developing smart applications and scalable web solutions  
+- Researching security-focused SaaS platforms with blockchain support  
+- Exploring cloud-native architectures and enterprise AI usage (SAP exposure)
 
 ---
 
-## 🛠 What I’m Currently Doing
-- **💻 Software Development** – building apps with modern frameworks  
-- **🤖 AI & Machine Learning** – working on smart prediction models  
-- **☁️ Cloud Computing** – deploying scalable apps on AWS & Azure  
-- **🗄 Database Management** – designing relational & non-relational databases  
+##  Connect with Me
+
+| Platform | Link |
+|----------|------|
+|  LinkedIn | [Your LinkedIn Profile](#) |
+|  GitHub | [Mrithyunjay02](https://github.com/Mrithyunjay02) |
+|  Email | [mrithyunjay12@gmail.com](mailto:mrithyunjay12@gmail.com) |
+|  Resume | [Download PDF](./DK_Mrithyunjay_Resume.pdf) |
 
 ---
 
-## 📊 GitHub Stats
-![Mrithyunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect with Me
-- 📧 **Email**: mrithyunjay12@gmail.com  
-- 📱 **Phone**: +91 9844324024  
-- 💼 **LinkedIn**: [D K Mrithyunjay](#)  
-- 💻 **GitHub**: [yourusername](https://github.com/yourusername)  
+⭐ If you found this interesting, feel free to **star** this repository!
