@@ -10,7 +10,7 @@ I'm a passionate Computer Science student specializing in **Python, AI, Web Deve
 ## 🚀 Live Portfolio
 
 Explore my professional portfolio here:  
-👉 [Visit My Portfolio Website](https://6818fcffa2234b479c5c499b--lucky-queijadas-70e620.netlify.app/)  
+👉 [Visit My Portfolio Website](https://lucky-queijadas-70e620.netlify.app/)  
 
 ---
 
